@@ -18,11 +18,11 @@ But it takes people to make the dream a reality.”
 #### - Walt Disney -
 ---
 ### Human-Centered Design
-#### Inspiration
+*Inspiration*
 ###### Qualitative & quantitative research.
 #### Ideation
-##### Critical evaluation.
+*Critical evaluation*
 #### Implementation
-##### Conscious creation.
+*Conscious creation*
 ---
 # The End.
