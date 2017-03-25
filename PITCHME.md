@@ -4,8 +4,8 @@
 David Ryan | daveryan.io | Web Developer @ Time Inc.
 ---
 ## CREATE EXPERIENCES
-## DEFINE INTUITIVE <!-- .element: class="fragment" -->
-## LETS BUILD! <!-- .element: class="fragment" -->
+## DEFINE INTUITIVE
+## LETS BUILD!
 ---
 > “You can design and create, 
 and build the most wonderful place in the world… 
@@ -86,6 +86,12 @@ Originally removed metabox, placed Set Featured Media next to Add Media. Now met
     * Metabox API <!-- .element: class="fragment" -->
     * The WordPress Media Modal (wp.media) / wp.template <!-- .element: class="fragment" -->
 ---
+### My tips and nitpicks
+* Avoid complex grids greater than 3-5 across.
+* Left-aligned vertical menus shouldn't be dark-themed.
+* Select2 / Selectize / Chosen -- be so, so, careful.
+* Design flows on paper.
+---
 ### Friends to invite to wp-admin party
 * Yahoo's Pure CSS is rad. Written to play nice with other frameworks. Mostly plays nice in admin.
 * localforage.js is great if you can assure environment. <!-- .element: class="fragment" -->
@@ -96,7 +102,7 @@ Originally removed metabox, placed Set Featured Media next to Add Media. Now met
 // Markup
 <div class="container"></div>
 <script id="tmpl-welcome-to-city" type="text/html">
-   <div class="welcome">Welcome to {{{ data.city }}}!</div>
+   <div class="welcome">Welcome to {{ data.city }}!</div>
 </script>
 
 // jQuery
