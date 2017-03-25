@@ -56,12 +56,13 @@ Have exceptional / informed reasons for Core deviation. But don't torture Core o
 ---
 ### Case Study: Featured Video / Media
 ###### FanSided approach
-Add metabox mirroring Featured Image in UI and interaction.
+Add metabox mirroring Featured Image in UI and flow -- not interaction.
+
 ![Screenshot of FanSided featured video metaboxes](assets/fsmetaboxes.png) <!-- .element: class="fragment" -->
 ---
 ### Case Study: Featured Video / Media
 ###### FanSided approach
-Add metabox mirroring Featured Image in UI and interaction.
+Add metabox mirroring Featured Image in UI and flow -- not interaction.
 ![Screenshot of FanSided custom video library in media modal](assets/setfeatvid.png)
 ---
 ### Case Study: Featured Video / Media
@@ -106,8 +107,9 @@ Originally removed metabox, placed Set Featured Media next to Add Media. Now met
 </script>
 
 // jQuery
+<script type="text/javascript">
 var template = wp.template( 'welcome-to-city' );
-var data = yourDataObject; // has key `city` at root
+var data = yourDataObject; // has key 'city' at root, i.e. San Diego
 var container = $('.container');
 
 // punch it chewie!
