@@ -60,18 +60,18 @@ Have exceptional / informed reasons for Core deviation. But don't torture Core o
 ### Case Study: Featured Video / Media
 ##### FanSided Video Library
 ###### Add metabox mirroring Featured Image in UI and flow.
-![Image](./assets/md/assets/fsmetaboxes.png)
+![Image](assets/md/assets/fsmetaboxes.png)
 ---
 ### Case Study: Featured Video / Media
 ##### FanSided Video Library
 ###### Add metabox mirroring Featured Image in UI and flow.
-![Image](./assets/md/assets/setfeatvid.png)
+![Image](assets/md/assets/setfeatvid.png)
 ---
 ### Case Study: Featured Video / Media
 ##### Institute for Nonprofit News: Largo
 ###### Used to remove and put "Set Featured Media" next to "Add Media."
 ###### Now uses metabox.
-![Image](./assets/md/assets/largometaboxes.png)
+![Image](assets/md/assets/largometaboxes.png)
 +++
 ##### Open Discussion About Change:
 https://github.com/INN/Largo/pull/1285
@@ -84,7 +84,7 @@ https://largo.inn.org/
 ##### Institute for Nonprofit News: Largo
 ###### Used to remove and put "Set Featured Media" next to "Add Media."
 ###### Now uses metabox.
-![Image](./assets/md/assets/largolib.png)
+![Image](assets/md/assets/largolib.png)
 +++
 https://github.com/INN/Largo/blob/master/js/featured-media.js
 https://github.com/INN/Largo/blob/master/inc/featured-media.php
@@ -102,7 +102,7 @@ https://github.com/INN/Largo/blob/master/inc/featured-media.php
 * Design flows on paper.
 * Avoid complex grids greater than 3-5 across.
 * Left-aligned vertical menus shouldn't be dark-themed.
-![Image](./assets/md/assets/fscomadm.png)
+![Image](assets/md/assets/fscomadm.png)
 ---
 ### My tips and nitpicks
 * Select2 / Selectize / Chosen -- test pls & add disable filter!
