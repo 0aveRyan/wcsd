@@ -97,6 +97,12 @@ https://github.com/INN/Largo/blob/master/inc/featured-media.php
     * Metabox API <!-- .element: class="fragment" -->
     * The WordPress Media Modal (wp.media) / wp.template <!-- .element: class="fragment" -->
 ---
+### Resources in wp-admin
+![screenshot patterns plugin](assets/patterns.png)
++++
+https://github.com/0aveRyan/patterns
+https://github.com/0aveRyan/american-admin-schemes
+---
 ### My tips and nitpicks
 * Design flows on paper.
 * Avoid complex grids greater than 3-5 across.
